@@ -1,7 +1,7 @@
 [
-{
-      "name": "Trap-Kit",
-      "samples": [
+  {
+     "name": "Trap-Kit",
+     "samples": [
          {
             "key": "Q",
             "id": "kick",
@@ -12,5 +12,5 @@
             "id": "snare",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Ansia%20No%20Snare.mp3"
          }
-   },
+   }
 ]
