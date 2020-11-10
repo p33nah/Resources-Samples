@@ -8,7 +8,7 @@
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Capi%20Della%20Trap%20Kick.mp3"
          },
          {
-            "keyTrigger": "W",
+            "key": "W",
             "id": "snare",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Ansia%20No%20Snare.mp3"
          }]
