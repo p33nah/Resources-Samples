@@ -3,12 +3,12 @@
      "name": "Trap-Kit-1",
      "samples": [
          {
-            "key": "q",
+            "keycode": "q",
             "id": "kick",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Capi%20Della%20Trap%20Kick.mp3"
          },
          {
-            "key": "w",
+            "keycode": "w",
             "id": "snare",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Ansia%20No%20Snare.mp3"
          }]
@@ -17,12 +17,12 @@
      "name": "Trap-Kit-2",
      "samples": [
          {
-            "key": "q",
+            "keycode": "q",
             "id": "kick",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Up%20Kick.mp3"
          },
          {
-            "key": "w",
+            "keycode": "w",
             "id": "snare",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Camoscio%20Snare.mp3"
          }]
