@@ -24,6 +24,29 @@
             "key": "4",
             "id": "808",
             "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Camoscio%20808.mp3"
+         },
+         {
+            "key": "5",
+            "id": "openhat",
+            "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/No%20Spie%20Open%20Hat.mp3"
+         },
+         {
+           
+            "key": "6",
+            "id": "cymbal",
+            "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Capi%20Della%20Trap%20Cymbal.mp3"
+         },
+         {
+           
+            "key": "7",
+            "id": "snap",
+            "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/No%20Spie%20Snap.mp3"
+         },
+         {
+           
+            "key": "8",
+            "id": "clap",
+            "url": "https://raw.githubusercontent.com/p33nah/Resources-Samples/main/mp3/Capi%20Della%20Trap%20Clap.mp3"
          }
      ]
    },
